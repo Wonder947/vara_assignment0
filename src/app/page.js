@@ -21,7 +21,7 @@ export default function Home(){
         metrics: parsedData.slice(1).map(arr=>arr[0]),
         data: parsedData.slice(1).map(arr=>arr.slice(1))
       }
-      console.log('my data:', myData)
+      // console.log('my data:', myData)
       const data = {
         labels: myData.dates,
         datasets: myData.metrics.map((m, i) => ({

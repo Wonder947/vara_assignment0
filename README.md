@@ -5,5 +5,13 @@ generates charts in the front end. Essentially, create a dashboard that showcase
 environmental metrics of the plant.
 
 ## Instruction
-clone the repository, download Node.js 18.17 or later, run 'npm run dev' to see the result page.
+clone the repository, download Node.js 18.17 or later, 
+install the dependencies,
+run 'npm run dev' to see the result page.
+
+You can click the legend to select or unselect the different metrics.
+When hover over the data(bar), user can view the detailed information of it.
+
+## Other Information
+it is also deployed at 
 
