@@ -13,5 +13,5 @@ You can click the legend to select or unselect the different metrics.
 When hover over the data(bar), user can view the detailed information of it.
 
 ## Other Information
-it is also deployed at 
+it is also deployed at [link](https://vara-assignment0.vercel.app/)
 
